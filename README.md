@@ -16,16 +16,7 @@ No specific packages are required for this project. Only standard Java libraries
 3. Connect an Android device or start an emulator.
 4. Run the project.
 
-## Authors
-- [Your Name]
-
 ## Version History
 - 0.1
     - Initial Release
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-## Acknowledgments
-* This project is intended for educational purposes and as a starting point for learning Android and Java development.
-* Feel free to modify and expand upon this project to further enhance your coding skills. Happy coding!
